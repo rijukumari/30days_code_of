@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    margin-top: 5%;
+}
+.container{
+    border: 1px solid rgb(0,0,0.5);
+    border-radius: 10px;
+    margin: auto;
+    width: 65%;
+    height: 35rem;
+    padding: 20px;
+    line-height: 2rem;
+}
+.about p{
+    line-height: 1.40rem;
+}
+.container .list{
+    display: flex;
+    list-style: none;
+}
+.list li{
+    padding-left: 20px;
+}
+.list > li > a{
+    text-decoration: none;
+}

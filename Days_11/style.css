@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    margin-top: 5%;
+}
+
+.container {
+    border: 1px solid rgb(0, 0, 0.5);
+    border-radius: 10px;
+    margin: auto;
+    width: 70%;
+    height: 15rem;
+    padding: 20px;
+    line-height: 2rem;
+}
+.container h1 a{
+    color: black;
+}
+.container .div_1{
+    margin-top: 10px;
+    width: 100%;
+    height: 20vh;
+    background-color: #3d8361;
+}
+.div_1 ul{
+    color: aliceblue;
+    list-style: none;
+}
+.div_1 ul li{
+    padding-left: 10px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.div_1 ul li a{
+    
+    color: aliceblue;
+    text-decoration: none;
+}

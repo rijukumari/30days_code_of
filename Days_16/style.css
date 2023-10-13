@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    margin-top: 5%;
+}
+
+.container {
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    margin: auto;
+    width: 70%;
+    height: 32rem;
+    padding: 20px;
+    line-height: 1.50rem;
+}
+.div_1{
+    text-align: center;
+}
+.div_1 ul{
+    display: flex;
+    padding: 10px;
+    background-color: rgb(5, 5, 94);
+    color: aliceblue;
+
+}
+.div_1 li{
+    padding: 10px;
+    list-style:none ;
+}
+.div_2{
+    text-align: center;
+}
+.div_2 p{
+    width: auto;
+    font-size: 13px;
+    color: gray;
+}
+.div_3{
+    margin-top: 8%;
+}
+.div_3 .left img{
+    float: right;
+    margin-top: -25%;
+    width: 40%;
+    height: 40vh;
+}
+.div_3 button{
+    margin-top: 1%;
+    padding: 8px 49px 9px 40px;
+}
